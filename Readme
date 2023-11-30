@@ -1,1 +1,5 @@
 Readme
+
+
+Old portfolio file had a bug that made it unable to update any changes to made to the files. 
+Tried googling and asking teacher and the best solution to the problem was to just copy and paste the content into a new react vite project file. Seems to be working fine now
