@@ -1,0 +1,7 @@
+/*Gives a custom font to the whole document also colors the all of the text to white*/
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0%;
+  color: rgb(238, 238, 238);
+}

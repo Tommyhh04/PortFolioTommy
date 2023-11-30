@@ -1,0 +1,33 @@
+/*Styles the container that keeps the text inside of it for the about section*/
+.About--container {
+  display: flex;
+  justify-content: center;
+  background-color: #12304d;
+  height: 100vh;
+  align-items: center;
+  padding: 20vh;
+}
+
+/*Styles the about text and gives a slight background to the text*/
+.About--text {
+  background-color: #102b42;
+  width: auto;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  text-shadow: 0px 0px 1px black;
+  border-radius: 5px;
+}
+
+/*Styles the profile image on the about section*/
+.About--profilepic {
+  width: auto;
+  height: 400px;
+  border-radius: 5px;
+}
+
+/*Gives some spacing to the paragraphs*/
+p {
+  letter-spacing: 1px;
+  line-height: 1.2;
+}

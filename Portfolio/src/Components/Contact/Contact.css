@@ -1,0 +1,20 @@
+/*Styles the footer containing the contact information*/
+
+.Contact--container {
+  display: flex;
+  background-color: #183f64;
+  justify-content: space-evenly;
+}
+
+.Logo {
+  width: auto;
+  height: 3vh;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: rgb(193, 193, 193);
+}
