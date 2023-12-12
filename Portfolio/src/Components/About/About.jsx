@@ -12,10 +12,19 @@ export default function About() {
       </div>
       <div className="About--text">
         <p>
-          Hei! Mitt navn er Tommy, jeg er en veldig glad og rolig person som
-          elsker å lære. Jeg har nå brukt et halvt år hos Kodehode der jeg har
-          lært frontend, HTML, CSS, JavaScript, figma og React. Dette har vært
-          utrolig kjekt og spennende å lære og jobbe med!
+          Jeg elsker å jobbe med frontend-utvikling og kurset gav meg mulighet
+          til å oppnå drømmen om å få jobbe med dette. Jeg er veldig spent på å
+          kunne fortsette med en fremtid innen frontend-utvikling og gleder meg
+          masse til å lære mye mer.
+        </p>
+        <p>
+          Jeg er en rolig og sosial person som liker å snakke med alle rundt meg
+          og gjør mitt beste at ingen føler seg alene eller utelatt.
+        </p>
+        <p>
+          Hobbyer så jeg liker å gjøre på fridtiden er fotografere, dataspill,
+          trening, male. Mye tid blir brukt på å forbedre eller prøve nye ting i
+          livet.
         </p>
         <p>
           I min forrige jobb så jobbet jeg i butikk på Europris. Der fikk jeg
@@ -27,16 +36,6 @@ export default function About() {
           Jeg fikk også testet mine leder-evner som kveldsansvarlig for
           butikken. Jeg har også fagbrev i IKT-servicefag så jeg har erfaring
           med problemløsning med teknologi.
-        </p>
-        <p>
-          I min fritid liker jeg å spille videospill som krever rask tenking,
-          adapterring og samarbeid, som World of Warcraft er et eksempel.
-        </p>
-        <p>
-          Jeg liker også å fotografere, trening, gitar og lese bøker. Mye tid
-          blir brukt på å forbedre eller prøve nye ting i livet. Jeg er veldig
-          spent på å kunne fortsette med en fremtid innen frontend-utvikling og
-          gleder meg masse til å lære mye mer.
         </p>
       </div>
     </div>

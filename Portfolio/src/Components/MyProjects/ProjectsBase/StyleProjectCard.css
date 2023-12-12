@@ -1,0 +1,15 @@
+.ProjectCard {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  height: 300px;
+  width: 250px;
+  margin: 20px;
+  box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.236);
+  border-radius: 20px;
+  background-color: #edf2fb;
+  color: #294a50;
+  text-shadow: 0px 0px 3px #d7e3fc;
+}

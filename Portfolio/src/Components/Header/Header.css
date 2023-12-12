@@ -2,6 +2,9 @@
 
 /*Gives styling to the container for the whole header content*/
 .Header--Container {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   display: flex;
   justify-content: space-evenly;
   background-color: #001233;
@@ -14,10 +17,13 @@
 /*Gives styling to the profilepicture*/
 .Header--profilepic {
   max-width: auto;
-  height: 500px;
-  border-radius: 5px;
+  width: 400;
+  height: 300px;
+  border-radius: 100px;
 }
 /*Gives styling to the introduction text*/
 .Header--person {
-  width: 50vh;
+  width: 500px;
+  color: white;
+  text-shadow: 1px 1px 1px black;
 }
