@@ -2,7 +2,7 @@
 import "./StyleProjectCard.css";
 
 //Here are the skeleton for the projects to be showcased using props
-
+//
 export default function MyProjects(props) {
   return (
     <div className="ProjectCard">
