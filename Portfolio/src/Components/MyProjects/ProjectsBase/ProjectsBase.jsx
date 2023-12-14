@@ -5,9 +5,9 @@ import "./StyleProjectCard.css";
 //
 export default function MyProjects(props) {
   return (
-    <div className="ProjectCard">
-      <h1>{props.title}</h1>
-      <img src={props.img} />
+    <div className="Project--Card">
+      <h2>{props.title}</h2>
+      <img className="Project--Img" src={props.img} />
       <p>{props.desc}</p>
     </div>
   );

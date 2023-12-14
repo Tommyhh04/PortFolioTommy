@@ -5,7 +5,8 @@
   background-color: #001233;
   height: 100vh;
   padding: 9vh;
-  overflow: visible;
+  overflow-x: scroll;
+  width: auto;
 }
 
 .MyProjects--ProjectBox {
