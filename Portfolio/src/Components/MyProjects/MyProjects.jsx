@@ -17,12 +17,14 @@ export default function Projects() {
           title="Javascript Guitar player"
           img={ProjectImg_Guitar}
           desc="Playable guitar in browser"
+          url="https://tommyhh04.github.io/Guitar-PianoPlayer/"
         />
         <MyProjects
           title="Password Generator"
           img={ProjectImg_PasswordGen}
           alt="Thumbnail for project"
           desc="A password generator"
+          url=""
         />
         <MyProjects
           title="Pokedex"
@@ -38,7 +40,7 @@ export default function Projects() {
         />
         <MyProjects
           title="Links"
-          desc="Working on learning to make links to other websites using props. Sorry for no link at the moment"
+          desc="Working on learning to make links to other websites using props. Links are in the Readme"
         />
 
         <MyProjects title="Coming soon" desc="Work in progress.." />
