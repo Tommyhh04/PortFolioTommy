@@ -1,4 +1,7 @@
 import "./Projects.css";
+//Imports the data to be used as props for the MyProjects
+import MyProjectsData from "./MyProjectsData";
+//Imports the skeleton for the cards
 import MyProjects from "../MyProjects/ProjectsBase/ProjectsBase";
 //Imports images to be used in project display thumbnail
 import ProjectImg_Guitar from "../Images/ProjectImages/GuitarPiano.png";
