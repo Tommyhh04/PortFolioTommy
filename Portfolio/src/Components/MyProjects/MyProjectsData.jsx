@@ -23,6 +23,13 @@ const projects = [
     alt: "Thumbnail for project",
     desc: "Pokedex with API and JavaScript",
   },
+  {
+    id: 4,
+    title: "What do i weigh on planet?",
+    img: "ProjectImg_PlanetWeight",
+    alt: "Thumbnail for project",
+    desc: "Check your weight at different planets",
+  },
 ];
 
 export default projects;
