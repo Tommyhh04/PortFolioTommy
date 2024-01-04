@@ -7,6 +7,7 @@ const projects = [
     img: "GuitarPiano.png",
     desc: "Playable guitar in browser",
     url: "https://tommyhh04.github.io/Guitar-PianoPlayer/",
+    complete: "Yes",
   },
   {
     id: 2,
@@ -15,6 +16,7 @@ const projects = [
     alt: "Thumbnail for project",
     desc: "A password generator",
     url: "",
+    complete: "Yes",
   },
   {
     id: 3,
@@ -22,6 +24,7 @@ const projects = [
     img: "Pokedex.png",
     alt: "Thumbnail for project",
     desc: "Pokedex with API and JavaScript",
+    complete: "Yes",
   },
   {
     id: 4,
@@ -29,6 +32,7 @@ const projects = [
     img: "ProjectImg_PlanetWeight",
     alt: "Thumbnail for project",
     desc: "Check your weight at different planets",
+    complete: "Yes",
   },
 ];
 
