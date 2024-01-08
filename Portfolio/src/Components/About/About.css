@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   background-color: #12304d;
-  height: 100vh;
+  height: auto;
   align-items: center;
   padding: 20vh;
 }
@@ -22,7 +22,7 @@
 /*Styles the profile image on the about section*/
 .About--profilepic {
   width: auto;
-  height: 400px;
+  height: 350px;
   border-radius: 5px;
 }
 
