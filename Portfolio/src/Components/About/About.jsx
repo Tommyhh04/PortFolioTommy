@@ -17,15 +17,13 @@ export default function About() {
           kunne fortsette med en fremtid innen frontend-utvikling og gleder meg
           masse til å lære mye mer.
         </p>
-        <p>
-          Jeg er en rolig og sosial person som liker å snakke med alle rundt meg
-          og gjør mitt beste at ingen føler seg alene eller utelatt.
-        </p>
+        {/*
+    
         <p>
           Hobbyer så jeg liker å gjøre på fridtiden er fotografere, dataspill,
           trening, male. Mye tid blir brukt på å forbedre eller prøve nye ting i
           livet.
-        </p>
+        </p>*/}
         <p>
           I min forrige jobb så jobbet jeg i butikk på Europris. Der fikk jeg
           jobbet mye i samarbeid med mine kollegaer og fikk brukt mine kreative,

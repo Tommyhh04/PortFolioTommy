@@ -5,14 +5,14 @@
   background-color: #001233;
   height: 100vh;
   padding: 9vh;
-  overflow-x: scroll;
   width: auto;
 }
 
 .MyProjects--ProjectBox {
   margin-top: 20px;
+  width: 175px;
+  max-width: 175px;
   display: flex;
-  flex-direction: row;
   justify-content: center;
   flex-direction: column;
 }
@@ -20,4 +20,12 @@
   width: auto;
   height: 50vh;
   border-radius: 120px;
+}
+
+.card--list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  flex-direction: row;
+  overflow-x: auto;
 }
