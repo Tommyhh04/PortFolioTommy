@@ -12,7 +12,7 @@ const projects = [
   {
     id: 2,
     title: "Password Generator",
-    img: "PasswordGen.png",
+    img: "../Images/.ProjectImages/PasswordGen.png",
     alt: "Thumbnail for project",
     desc: "A password generator",
     url: "https://tommyhh04.github.io/PasswordGenerator/",
