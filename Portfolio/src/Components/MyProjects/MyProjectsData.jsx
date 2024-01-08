@@ -15,7 +15,7 @@ const projects = [
     img: "PasswordGen.png",
     alt: "Thumbnail for project",
     desc: "A password generator",
-    url: "",
+    url: "https://tommyhh04.github.io/PasswordGenerator/",
     complete: "Yes",
   },
   {
@@ -24,6 +24,7 @@ const projects = [
     img: "Pokedex.png",
     alt: "Thumbnail for project",
     desc: "Pokedex with API and JavaScript",
+    url: "https://tommyhh04.github.io/PokeDex/",
     complete: "Yes",
   },
   {
@@ -32,6 +33,7 @@ const projects = [
     img: "ProjectImg_PlanetWeight",
     alt: "Thumbnail for project",
     desc: "Check your weight at different planets",
+    url: "https://tommyhh04.github.io/PlanetWeight/",
     complete: "Yes",
   },
 ];
