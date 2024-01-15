@@ -14,7 +14,7 @@ export default function Header() {
       <div className="Header--person">
         <h3>Hei! Jeg heter</h3>
         <h1>Tommy Halleland</h1>
-        <h3>En frontend utvikler</h3>
+        <h3>En Junior frontend utvikler</h3>
         <p>
           Mitt navn er Tommy, og for tiden går jeg på kurset Kodehode for å bli
           en frontend-utvikler. Det har vært utroligt kjekt å jobbe og lære så
