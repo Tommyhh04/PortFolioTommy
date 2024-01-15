@@ -20,7 +20,7 @@ export default function About() {
         {/*
     
         <p>
-        Test
+        Test Test2
           Hobbyer så jeg liker å gjøre på fridtiden er fotografere, dataspill,
           trening gitar.
         </p>*/}
