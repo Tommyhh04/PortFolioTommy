@@ -2,7 +2,7 @@ import ProjectImg_Guitar from "../Images/ProjectImages/GuitarPiano.png";
 import ProjectImg_PasswordGen from "../Images/ProjectImages/PasswordGen.png";
 import ProjectImg_Pokedex from "../Images/ProjectImages/Pokedex.png";
 import ProjectImg_PlanetWeight from "../Images/ProjectImages/PlanetWeight.png";
-
+import ProjectImg_MemeGen from "../Images/ProjectImages/MemeGen.png";
 //Contains data for the different projects to be displayed in MyProjects.jsx
 
 const projects = [
@@ -44,6 +44,15 @@ const projects = [
 
   {
     id: 5,
+    title: "Meme Generator",
+    img: ProjectImg_MemeGen,
+    alt: "Thumbnail for project",
+    desc: "Work in progress",
+    url: "https://github.com/Tommyhh04/MemeGenerator",
+    complete: "No",
+  },
+  {
+    id: 6,
     title: "Work in progress..",
     img: {
       /*No image yet*/
