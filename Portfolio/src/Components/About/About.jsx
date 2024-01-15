@@ -20,9 +20,9 @@ export default function About() {
         {/*
     
         <p>
+        Test
           Hobbyer så jeg liker å gjøre på fridtiden er fotografere, dataspill,
-          trening, male. Mye tid blir brukt på å forbedre eller prøve nye ting i
-          livet.
+          trening gitar.
         </p>*/}
         <p>
           I min forrige jobb så jobbet jeg i butikk på Europris. Der fikk jeg
