@@ -28,7 +28,7 @@ const projects = [
     title: "Pokedex",
     img: ProjectImg_Pokedex,
     alt: "Thumbnail for project",
-    desc: "Pokedex with API and JavaScript",
+    desc: "Pokedex using API of the original 151 pokemons",
     url: "https://tommyhh04.github.io/PokeDex/",
     complete: "Yes",
   },
