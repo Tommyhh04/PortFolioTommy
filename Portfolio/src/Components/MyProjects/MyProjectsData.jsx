@@ -58,7 +58,7 @@ const projects = [
       /*No image yet*/
     },
     alt: "Thumbnail for project",
-    desc: "Prøver alltid å forbedre mine evner og design evner. Ta en titt innom av og til, kanskje jeg har gjort store endringer eller et nytt spennende prosjekt er lagt til!",
+    desc: "Prøver alltid å forbedre mine kode og design evner. Ta en titt innom av og til, kanskje jeg har gjort endringer eller et nytt spennende prosjekt er lagt til!",
   },
 ];
 
