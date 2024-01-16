@@ -16,9 +16,9 @@ export default function Header() {
         <h1>Tommy Halleland</h1>
         <h3>En Junior frontend utvikler</h3>
         <p>
-          Mitt navn er Tommy, og for tiden går jeg på kurset Kodehode for å bli
-          en frontend-utvikler. Det har vært utroligt kjekt å jobbe og lære så
-          mye om frontend og ser for meg en stor fremtid innen dette yrket.
+          For tiden går jeg på kurset Kodehode og har blitt en
+          frontend-utvikler. Det har vært utroligt kjekt å jobbe og lære så mye
+          om frontend og ser for meg en stor fremtid innen dette yrket.
         </p>
         <p>
           Gjennom kurset har jeg fått erfaring i HTML, CSS, JavaScript og React,
