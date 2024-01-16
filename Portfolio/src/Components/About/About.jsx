@@ -19,7 +19,7 @@ export default function About() {
         </p>
         {/*
     
-        <p>
+        <p>n
         Test Test2 Test3
           Hobbyer så jeg liker å gjøre på fridtiden er fotografere, dataspill,
           trening gitar.
