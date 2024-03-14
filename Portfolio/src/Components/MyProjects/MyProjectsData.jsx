@@ -2,6 +2,8 @@ import ProjectImg_Guitar from "../Images/ProjectImages/GuitarPiano.png";
 import ProjectImg_PasswordGen from "../Images/ProjectImages/PasswordGen.png";
 import ProjectImg_Pokedex from "../Images/ProjectImages/Pokedex.png";
 import ProjectImg_PlanetWeight from "../Images/ProjectImages/PlanetWeight.png";
+import ProjectImg_InstaCats from "../Images/ProjectImages/InstaCats.png";
+import ProjectImg_Loading from "../Images/ProjectImages/Loading.jpg";
 
 //Contains data for the different projects to be displayed in MyProjects.jsx
 
@@ -44,12 +46,19 @@ const projects = [
 
   {
     id: 5,
-    title: "Work in progress..",
-    img: {
-      /*No image yet*/
-    },
+    title: "InstaCats",
+    img: ProjectImg_InstaCats,
     alt: "Thumbnail for project",
-    desc: "Prøver alltid å forbedre mine evner og design evner. Ta en titt innom av og til, kanskje jeg har gjort store endringer eller et nytt spennende prosjekt er lagt til!",
+    desc: "A instagram like for cats with upvote and downvote button",
+    url: "https://65f2c662f81457a0f94d44ee--funny-halva-122883.netlify.app/",
+    complete: "Yes",
+  },
+  {
+    id: 6,
+    title: "Work in progress..",
+    img: ProjectImg_Loading,
+    alt: "Thumbnail for project",
+    desc: "Work in progress",
   },
 ];
 

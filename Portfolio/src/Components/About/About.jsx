@@ -17,13 +17,15 @@ export default function About() {
           kunne fortsette med en fremtid innen frontend-utvikling og gleder meg
           masse til å lære mye mer.
         </p>
-        {/*
-    
         <p>
-          Hobbyer så jeg liker å gjøre på fridtiden er fotografere, dataspill,
-          trening, male. Mye tid blir brukt på å forbedre eller prøve nye ting i
-          livet.
-        </p>*/}
+          Gjennom kurset har jeg fått erfaring i HTML, CSS, JavaScript og React,
+          og jeg trives best med å jobbe med React og CSS.
+        </p>
+        <p>
+          Jeg er ikke redd for å prøve eller eksperimentere med nye ideer.
+          Design og kunst er også av interesse for meg som jeg prøver å bruke i
+          mitt arbeid.
+        </p>
         <p>
           I min forrige jobb så jobbet jeg i butikk på Europris. Der fikk jeg
           jobbet mye i samarbeid med mine kollegaer og fikk brukt mine kreative,
